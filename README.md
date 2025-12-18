@@ -14,3 +14,4 @@
 ## Ссылки 
 *  ТЗ работа ИФЗ - ТДЛФ [ИФЗ](https://github.com/KisaPs/TDLFAPI/tree/main/TDLF/Old)
 *  ТЗ загрузка товаров с сайта [Сайт](https://github.com/KisaPs/ut11-extensions-templates/blob/main/ExchangeShop/TZ_ImportOrder.md)
+*  ТЗ разбиение заказа [КП](https://github.com/KisaPs/ut11-extensions-templates/blob/main/ExchangeShop/TZ_CreateOrders.md)
